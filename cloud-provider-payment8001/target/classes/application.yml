@@ -1,0 +1,22 @@
+server:
+  port: 8001
+
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.76.131:3333/payment_db?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  application:
+    name: payment
+
+mybatis:
+  mapperLocations: classpath:mapper/*.xml
+  type-aliases-package: cn.siwen.cloud.entity
+
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
