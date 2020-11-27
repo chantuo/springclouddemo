@@ -7,12 +7,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/liuya1993/springcloud-config-demo.git  #GitHub远程仓库地址
-          # 搜索目录
+          uri: https://github.com/chantuo/springclouddemo.git
 
           search-paths:
-            - springcloud-config-demo
-      #读取分支
+              - springclouddemo
       label: master
 
   rabbitmq:
