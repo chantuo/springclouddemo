@@ -19,15 +19,21 @@
         <module name="cloud-provider-payment8003" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
+        <module name="cloud-config-conter-3366" />
         <module name="cloud-consumercs-order80" />
+        <module name="cloud-config-conter-3344" />
         <module name="cloud-common" />
         <module name="cloud-provider-payment82000" />
+        <module name="cloud-config-conter-3355" />
         <module name="cloud-provider-order80" />
         <module name="cloud-server-eurka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-common" target="1.8" />
+      <module name="cloud-config-conter-3344" target="1.8" />
+      <module name="cloud-config-conter-3355" target="1.8" />
+      <module name="cloud-config-conter-3366" target="1.8" />
       <module name="cloud-consumer-fegin-hystrix-order80" target="1.8" />
       <module name="cloud-consumer-OpenFeign-order80" target="1.8" />
       <module name="cloud-consumer-order80" target="1.8" />

@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud-common/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-conter-3344/cloud-config-conter-3344.iml" filepath="$PROJECT_DIR$/cloud-config-conter-3344/cloud-config-conter-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-conter-3355/cloud-config-conter-3355.iml" filepath="$PROJECT_DIR$/cloud-config-conter-3355/cloud-config-conter-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-conter-3366/cloud-config-conter-3366.iml" filepath="$PROJECT_DIR$/cloud-config-conter-3366/cloud-config-conter-3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-OpenFeign-order80/cloud-consumer-OpenFeign-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-OpenFeign-order80/cloud-consumer-OpenFeign-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-fegin-hystrix-order80/cloud-consumer-fegin-hystrix-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-fegin-hystrix-order80/cloud-consumer-fegin-hystrix-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" />
@@ -15,7 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment8005/cloud-provider-payment8005.iml" filepath="$PROJECT_DIR$/cloud-provider-payment8005/cloud-provider-payment8005.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-server-eureka7001/cloud-server-eureka7001.iml" filepath="$PROJECT_DIR$/cloud-server-eureka7001/cloud-server-eureka7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-server-eureka7002/cloud-server-eureka7002.iml" filepath="$PROJECT_DIR$/cloud-server-eureka7002/cloud-server-eureka7002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
     </modules>
   </component>
 </project>
